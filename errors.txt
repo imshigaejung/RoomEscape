@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 44: invalid syntax
+    def
+           ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Wed Oct  8 01:41:25 2025
